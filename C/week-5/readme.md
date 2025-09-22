@@ -1,6 +1,9 @@
-## En esta semana vimos punteros, matrices y vectores.
+# Lenguajes de programacion - Week 5 
+#  Apuntes y Ejercicios de C
 
-### WEEK 5 es la semana donde vimos los siguientes ejercicios acerca de los temas propuestos 
+## 💻 En esta semana vimos **punteros, matrices y vectores**.
 
-#### Para ejecutar el codigo con el comando GCC nombredelarchivo.c -o nombredelarchivo (Esto crea un ejecutable)
-#### Luego se ejecuta el comando ./nombredelarchivo
+### WEEK 5 es la semana donde vimos los siguientes ejercicios acerca de los temas propuestos
+
+#### Para ejecutar el código con el comando **`gcc nombredelarchivo.c -o nombredelarchivo`** (Esto crea un ejecutable)
+#### Luego se ejecuta el comando **`./nombredelarchivo`**
